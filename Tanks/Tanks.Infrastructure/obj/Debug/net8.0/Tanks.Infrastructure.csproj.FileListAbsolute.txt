@@ -1,0 +1,15 @@
+C:\Users\MISHO0202\source\repos\Tanks\Tanks.Infrastructure\obj\Debug\net8.0\Tanks.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\MISHO0202\source\repos\Tanks\Tanks.Infrastructure\obj\Debug\net8.0\Tanks.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MISHO0202\source\repos\Tanks\Tanks.Infrastructure\obj\Debug\net8.0\Tanks.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\MISHO0202\source\repos\Tanks\Tanks.Infrastructure\obj\Debug\net8.0\Tanks.Infrastructure.AssemblyInfo.cs
+C:\Users\MISHO0202\source\repos\Tanks\Tanks.Infrastructure\obj\Debug\net8.0\Tanks.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\MISHO0202\source\repos\Tanks\Tanks.Infrastructure\bin\Debug\net8.0\Tanks.Infrastructure.deps.json
+C:\Users\MISHO0202\source\repos\Tanks\Tanks.Infrastructure\bin\Debug\net8.0\Tanks.Infrastructure.dll
+C:\Users\MISHO0202\source\repos\Tanks\Tanks.Infrastructure\bin\Debug\net8.0\Tanks.Infrastructure.pdb
+C:\Users\MISHO0202\source\repos\Tanks\Tanks.Infrastructure\bin\Debug\net8.0\Tanks.Domain.dll
+C:\Users\MISHO0202\source\repos\Tanks\Tanks.Infrastructure\bin\Debug\net8.0\Tanks.Domain.pdb
+C:\Users\MISHO0202\source\repos\Tanks\Tanks.Infrastructure\obj\Debug\net8.0\Tanks.In.4C5D3DDF.Up2Date
+C:\Users\MISHO0202\source\repos\Tanks\Tanks.Infrastructure\obj\Debug\net8.0\Tanks.Infrastructure.dll
+C:\Users\MISHO0202\source\repos\Tanks\Tanks.Infrastructure\obj\Debug\net8.0\refint\Tanks.Infrastructure.dll
+C:\Users\MISHO0202\source\repos\Tanks\Tanks.Infrastructure\obj\Debug\net8.0\Tanks.Infrastructure.pdb
+C:\Users\MISHO0202\source\repos\Tanks\Tanks.Infrastructure\obj\Debug\net8.0\ref\Tanks.Infrastructure.dll

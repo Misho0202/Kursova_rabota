@@ -1,0 +1,11 @@
+C:\Users\MISHO0202\source\repos\Tanks\Tanks.Domain\bin\Debug\net8.0\Tanks.Domain.deps.json
+C:\Users\MISHO0202\source\repos\Tanks\Tanks.Domain\bin\Debug\net8.0\Tanks.Domain.dll
+C:\Users\MISHO0202\source\repos\Tanks\Tanks.Domain\bin\Debug\net8.0\Tanks.Domain.pdb
+C:\Users\MISHO0202\source\repos\Tanks\Tanks.Domain\obj\Debug\net8.0\Tanks.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MISHO0202\source\repos\Tanks\Tanks.Domain\obj\Debug\net8.0\Tanks.Domain.AssemblyInfoInputs.cache
+C:\Users\MISHO0202\source\repos\Tanks\Tanks.Domain\obj\Debug\net8.0\Tanks.Domain.AssemblyInfo.cs
+C:\Users\MISHO0202\source\repos\Tanks\Tanks.Domain\obj\Debug\net8.0\Tanks.Domain.csproj.CoreCompileInputs.cache
+C:\Users\MISHO0202\source\repos\Tanks\Tanks.Domain\obj\Debug\net8.0\Tanks.Domain.dll
+C:\Users\MISHO0202\source\repos\Tanks\Tanks.Domain\obj\Debug\net8.0\refint\Tanks.Domain.dll
+C:\Users\MISHO0202\source\repos\Tanks\Tanks.Domain\obj\Debug\net8.0\Tanks.Domain.pdb
+C:\Users\MISHO0202\source\repos\Tanks\Tanks.Domain\obj\Debug\net8.0\ref\Tanks.Domain.dll
