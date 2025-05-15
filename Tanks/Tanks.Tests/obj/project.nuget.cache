@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "F/vj/f1kXbs=",
+  "dgSpecHash": "I52AHVwvXV8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\MISHO0202\\source\\repos\\Tanks\\Tanks.Tests\\Tanks.Tests.csproj",
+  "projectFilePath": "E:\\Documents\\GitHub\\Kursova_rabota\\Tanks\\Tanks.Tests\\Tanks.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MISHO0202\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\MISHO0202\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",

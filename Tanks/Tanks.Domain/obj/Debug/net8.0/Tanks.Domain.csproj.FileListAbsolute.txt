@@ -9,3 +9,15 @@ C:\Users\MISHO0202\source\repos\Tanks\Tanks.Domain\obj\Debug\net8.0\Tanks.Domain
 C:\Users\MISHO0202\source\repos\Tanks\Tanks.Domain\obj\Debug\net8.0\refint\Tanks.Domain.dll
 C:\Users\MISHO0202\source\repos\Tanks\Tanks.Domain\obj\Debug\net8.0\Tanks.Domain.pdb
 C:\Users\MISHO0202\source\repos\Tanks\Tanks.Domain\obj\Debug\net8.0\ref\Tanks.Domain.dll
+E:\Documents\GitHub\Kursova_rabota\Tanks\Tanks.Domain\bin\Debug\net8.0\Tanks.Domain.deps.json
+E:\Documents\GitHub\Kursova_rabota\Tanks\Tanks.Domain\bin\Debug\net8.0\Tanks.Domain.dll
+E:\Documents\GitHub\Kursova_rabota\Tanks\Tanks.Domain\bin\Debug\net8.0\Tanks.Domain.pdb
+E:\Documents\GitHub\Kursova_rabota\Tanks\Tanks.Domain\obj\Debug\net8.0\Tanks.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documents\GitHub\Kursova_rabota\Tanks\Tanks.Domain\obj\Debug\net8.0\Tanks.Domain.AssemblyInfoInputs.cache
+E:\Documents\GitHub\Kursova_rabota\Tanks\Tanks.Domain\obj\Debug\net8.0\Tanks.Domain.AssemblyInfo.cs
+E:\Documents\GitHub\Kursova_rabota\Tanks\Tanks.Domain\obj\Debug\net8.0\Tanks.Domain.csproj.CoreCompileInputs.cache
+E:\Documents\GitHub\Kursova_rabota\Tanks\Tanks.Domain\obj\Debug\net8.0\Tanks.Domain.sourcelink.json
+E:\Documents\GitHub\Kursova_rabota\Tanks\Tanks.Domain\obj\Debug\net8.0\Tanks.Domain.dll
+E:\Documents\GitHub\Kursova_rabota\Tanks\Tanks.Domain\obj\Debug\net8.0\refint\Tanks.Domain.dll
+E:\Documents\GitHub\Kursova_rabota\Tanks\Tanks.Domain\obj\Debug\net8.0\Tanks.Domain.pdb
+E:\Documents\GitHub\Kursova_rabota\Tanks\Tanks.Domain\obj\Debug\net8.0\ref\Tanks.Domain.dll

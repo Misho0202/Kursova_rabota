@@ -1,33 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\MISHO0202\\source\\repos\\Tanks\\",
+  "WorkspaceRootPath": "E:\\Documents\\GitHub\\Kursova_rabota\\Tanks\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D5478B9A-0D41-4858-9256-9974A6B4312C}|Tanks\\Tanks.csproj|c:\\users\\misho0202\\source\\repos\\tanks\\tanks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D5478B9A-0D41-4858-9256-9974A6B4312C}|Tanks\\Tanks.csproj|e:\\documents\\github\\kursova_rabota\\tanks\\tanks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D5478B9A-0D41-4858-9256-9974A6B4312C}|Tanks\\Tanks.csproj|solutionrelative:tanks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5478B9A-0D41-4858-9256-9974A6B4312C}|Tanks\\Tanks.csproj|c:\\users\\misho0202\\source\\repos\\tanks\\tanks\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{D5478B9A-0D41-4858-9256-9974A6B4312C}|Tanks\\Tanks.csproj|e:\\documents\\github\\kursova_rabota\\tanks\\tanks\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{D5478B9A-0D41-4858-9256-9974A6B4312C}|Tanks\\Tanks.csproj|solutionrelative:tanks\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5478B9A-0D41-4858-9256-9974A6B4312C}|Tanks\\Tanks.csproj|c:\\users\\misho0202\\source\\repos\\tanks\\tanks\\controllers\\tankcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D5478B9A-0D41-4858-9256-9974A6B4312C}|Tanks\\Tanks.csproj|e:\\documents\\github\\kursova_rabota\\tanks\\tanks\\controllers\\tankcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D5478B9A-0D41-4858-9256-9974A6B4312C}|Tanks\\Tanks.csproj|solutionrelative:tanks\\controllers\\tankcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79A0A57C-E841-4CAF-92B5-9D8D10F0D158}|Tanks.Application\\Tanks.Application.csproj|c:\\users\\misho0202\\source\\repos\\tanks\\tanks.application\\interfaces\\itankservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{79A0A57C-E841-4CAF-92B5-9D8D10F0D158}|Tanks.Application\\Tanks.Application.csproj|e:\\documents\\github\\kursova_rabota\\tanks\\tanks.application\\interfaces\\itankservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{79A0A57C-E841-4CAF-92B5-9D8D10F0D158}|Tanks.Application\\Tanks.Application.csproj|solutionrelative:tanks.application\\interfaces\\itankservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79A0A57C-E841-4CAF-92B5-9D8D10F0D158}|Tanks.Application\\Tanks.Application.csproj|c:\\users\\misho0202\\source\\repos\\tanks\\tanks.application\\services\\tankservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{79A0A57C-E841-4CAF-92B5-9D8D10F0D158}|Tanks.Application\\Tanks.Application.csproj|e:\\documents\\github\\kursova_rabota\\tanks\\tanks.application\\services\\tankservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{79A0A57C-E841-4CAF-92B5-9D8D10F0D158}|Tanks.Application\\Tanks.Application.csproj|solutionrelative:tanks.application\\services\\tankservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79A0A57C-E841-4CAF-92B5-9D8D10F0D158}|Tanks.Application\\Tanks.Application.csproj|c:\\users\\misho0202\\source\\repos\\tanks\\tanks.application\\tanks.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{79A0A57C-E841-4CAF-92B5-9D8D10F0D158}|Tanks.Application\\Tanks.Application.csproj|e:\\documents\\github\\kursova_rabota\\tanks\\tanks.application\\tanks.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{79A0A57C-E841-4CAF-92B5-9D8D10F0D158}|Tanks.Application\\Tanks.Application.csproj|solutionrelative:tanks.application\\tanks.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1846264-81EC-4128-B8B3-318CF7CD2F82}|Tanks.Infrastructure\\Tanks.Infrastructure.csproj|c:\\users\\misho0202\\source\\repos\\tanks\\tanks.infrastructure\\tanks.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{F1846264-81EC-4128-B8B3-318CF7CD2F82}|Tanks.Infrastructure\\Tanks.Infrastructure.csproj|e:\\documents\\github\\kursova_rabota\\tanks\\tanks.infrastructure\\tanks.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{F1846264-81EC-4128-B8B3-318CF7CD2F82}|Tanks.Infrastructure\\Tanks.Infrastructure.csproj|solutionrelative:tanks.infrastructure\\tanks.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -48,61 +48,57 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\MISHO0202\\source\\repos\\Tanks\\Tanks\\appsettings.json",
+              "DocumentMoniker": "E:\\Documents\\GitHub\\Kursova_rabota\\Tanks\\Tanks\\appsettings.json",
               "RelativeDocumentMoniker": "Tanks\\appsettings.json",
-              "ToolTip": "C:\\Users\\MISHO0202\\source\\repos\\Tanks\\Tanks\\appsettings.json",
+              "ToolTip": "E:\\Documents\\GitHub\\Kursova_rabota\\Tanks\\Tanks\\appsettings.json",
               "RelativeToolTip": "Tanks\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-02T21:11:08.897Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-02T21:11:08.897Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "TankService.cs",
-              "DocumentMoniker": "C:\\Users\\MISHO0202\\source\\repos\\Tanks\\Tanks.Application\\Services\\TankService.cs",
+              "DocumentMoniker": "E:\\Documents\\GitHub\\Kursova_rabota\\Tanks\\Tanks.Application\\Services\\TankService.cs",
               "RelativeDocumentMoniker": "Tanks.Application\\Services\\TankService.cs",
-              "ToolTip": "C:\\Users\\MISHO0202\\source\\repos\\Tanks\\Tanks.Application\\Services\\TankService.cs",
+              "ToolTip": "E:\\Documents\\GitHub\\Kursova_rabota\\Tanks\\Tanks.Application\\Services\\TankService.cs",
               "RelativeToolTip": "Tanks.Application\\Services\\TankService.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAAwCgAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-02T21:05:23.608Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-02T21:05:23.608Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "ITankService.cs",
-              "DocumentMoniker": "C:\\Users\\MISHO0202\\source\\repos\\Tanks\\Tanks.Application\\Interfaces\\ITankService.cs",
+              "DocumentMoniker": "E:\\Documents\\GitHub\\Kursova_rabota\\Tanks\\Tanks.Application\\Interfaces\\ITankService.cs",
               "RelativeDocumentMoniker": "Tanks.Application\\Interfaces\\ITankService.cs",
-              "ToolTip": "C:\\Users\\MISHO0202\\source\\repos\\Tanks\\Tanks.Application\\Interfaces\\ITankService.cs",
+              "ToolTip": "E:\\Documents\\GitHub\\Kursova_rabota\\Tanks\\Tanks.Application\\Interfaces\\ITankService.cs",
               "RelativeToolTip": "Tanks.Application\\Interfaces\\ITankService.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAqwAwAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-02T21:02:19.404Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-02T21:02:19.404Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "TankController.cs",
-              "DocumentMoniker": "C:\\Users\\MISHO0202\\source\\repos\\Tanks\\Tanks\\Controllers\\TankController.cs",
+              "DocumentMoniker": "E:\\Documents\\GitHub\\Kursova_rabota\\Tanks\\Tanks\\Controllers\\TankController.cs",
               "RelativeDocumentMoniker": "Tanks\\Controllers\\TankController.cs",
-              "ToolTip": "C:\\Users\\MISHO0202\\source\\repos\\Tanks\\Tanks\\Controllers\\TankController.cs",
+              "ToolTip": "E:\\Documents\\GitHub\\Kursova_rabota\\Tanks\\Tanks\\Controllers\\TankController.cs",
               "RelativeToolTip": "Tanks\\Controllers\\TankController.cs",
               "ViewState": "AgIAAC0AAAAAAAAAAAAIwCcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-02T21:01:18.032Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-02T21:01:18.032Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\MISHO0202\\source\\repos\\Tanks\\Tanks\\Program.cs",
+              "DocumentMoniker": "E:\\Documents\\GitHub\\Kursova_rabota\\Tanks\\Tanks\\Program.cs",
               "RelativeDocumentMoniker": "Tanks\\Program.cs",
-              "ToolTip": "C:\\Users\\MISHO0202\\source\\repos\\Tanks\\Tanks\\Program.cs",
+              "ToolTip": "E:\\Documents\\GitHub\\Kursova_rabota\\Tanks\\Tanks\\Program.cs",
               "RelativeToolTip": "Tanks\\Program.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -112,28 +108,26 @@
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Tanks.Application",
-              "DocumentMoniker": "C:\\Users\\MISHO0202\\source\\repos\\Tanks\\Tanks.Application\\Tanks.Application.csproj",
+              "Title": "Tanks.Application.csproj",
+              "DocumentMoniker": "E:\\Documents\\GitHub\\Kursova_rabota\\Tanks\\Tanks.Application\\Tanks.Application.csproj",
               "RelativeDocumentMoniker": "Tanks.Application\\Tanks.Application.csproj",
-              "ToolTip": "C:\\Users\\MISHO0202\\source\\repos\\Tanks\\Tanks.Application\\Tanks.Application.csproj",
+              "ToolTip": "E:\\Documents\\GitHub\\Kursova_rabota\\Tanks\\Tanks.Application\\Tanks.Application.csproj",
               "RelativeToolTip": "Tanks.Application\\Tanks.Application.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-02T20:47:12.547Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-02T20:47:12.547Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Tanks.Infrastructure",
-              "DocumentMoniker": "C:\\Users\\MISHO0202\\source\\repos\\Tanks\\Tanks.Infrastructure\\Tanks.Infrastructure.csproj",
+              "Title": "Tanks.Infrastructure.csproj",
+              "DocumentMoniker": "E:\\Documents\\GitHub\\Kursova_rabota\\Tanks\\Tanks.Infrastructure\\Tanks.Infrastructure.csproj",
               "RelativeDocumentMoniker": "Tanks.Infrastructure\\Tanks.Infrastructure.csproj",
-              "ToolTip": "C:\\Users\\MISHO0202\\source\\repos\\Tanks\\Tanks.Infrastructure\\Tanks.Infrastructure.csproj",
+              "ToolTip": "E:\\Documents\\GitHub\\Kursova_rabota\\Tanks\\Tanks.Infrastructure\\Tanks.Infrastructure.csproj",
               "RelativeToolTip": "Tanks.Infrastructure\\Tanks.Infrastructure.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-02T20:47:38.033Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-02T20:47:38.033Z"
             }
           ]
         }

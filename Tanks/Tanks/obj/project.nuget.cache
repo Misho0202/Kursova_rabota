@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "T8OnhfgOgHM=",
+  "dgSpecHash": "mZ1n6lJ5Mtg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\MISHO0202\\source\\repos\\Tanks\\Tanks\\Tanks.csproj",
+  "projectFilePath": "E:\\Documents\\GitHub\\Kursova_rabota\\Tanks\\Tanks\\Tanks.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MISHO0202\\.nuget\\packages\\dnsclient\\1.6.1\\dnsclient.1.6.1.nupkg.sha512",
     "C:\\Users\\MISHO0202\\.nuget\\packages\\fluentvalidation\\11.5.1\\fluentvalidation.11.5.1.nupkg.sha512",

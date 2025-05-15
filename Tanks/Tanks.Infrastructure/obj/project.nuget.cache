@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2eRyn/zsTSQ=",
+  "dgSpecHash": "HWql2DunRtk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\MISHO0202\\source\\repos\\Tanks\\Tanks.Infrastructure\\Tanks.Infrastructure.csproj",
+  "projectFilePath": "E:\\Documents\\GitHub\\Kursova_rabota\\Tanks\\Tanks.Infrastructure\\Tanks.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MISHO0202\\.nuget\\packages\\dnsclient\\1.6.1\\dnsclient.1.6.1.nupkg.sha512",
     "C:\\Users\\MISHO0202\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",

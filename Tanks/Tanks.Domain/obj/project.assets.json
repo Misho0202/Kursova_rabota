@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MISHO0202\\source\\repos\\Tanks\\Tanks.Domain\\Tanks.Domain.csproj",
+      "projectUniqueName": "E:\\Documents\\GitHub\\Kursova_rabota\\Tanks\\Tanks.Domain\\Tanks.Domain.csproj",
       "projectName": "Tanks.Domain",
-      "projectPath": "C:\\Users\\MISHO0202\\source\\repos\\Tanks\\Tanks.Domain\\Tanks.Domain.csproj",
+      "projectPath": "E:\\Documents\\GitHub\\Kursova_rabota\\Tanks\\Tanks.Domain\\Tanks.Domain.csproj",
       "packagesPath": "C:\\Users\\MISHO0202\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MISHO0202\\source\\repos\\Tanks\\Tanks.Domain\\obj\\",
+      "outputPath": "E:\\Documents\\GitHub\\Kursova_rabota\\Tanks\\Tanks.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

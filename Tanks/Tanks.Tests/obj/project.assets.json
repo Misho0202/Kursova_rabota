@@ -6430,11 +6430,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MISHO0202\\source\\repos\\Tanks\\Tanks.Tests\\Tanks.Tests.csproj",
+      "projectUniqueName": "E:\\Documents\\GitHub\\Kursova_rabota\\Tanks\\Tanks.Tests\\Tanks.Tests.csproj",
       "projectName": "Tanks.Tests",
-      "projectPath": "C:\\Users\\MISHO0202\\source\\repos\\Tanks\\Tanks.Tests\\Tanks.Tests.csproj",
+      "projectPath": "E:\\Documents\\GitHub\\Kursova_rabota\\Tanks\\Tanks.Tests\\Tanks.Tests.csproj",
       "packagesPath": "C:\\Users\\MISHO0202\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MISHO0202\\source\\repos\\Tanks\\Tanks.Tests\\obj\\",
+      "outputPath": "E:\\Documents\\GitHub\\Kursova_rabota\\Tanks\\Tanks.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -6455,8 +6455,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\MISHO0202\\source\\repos\\Tanks\\Tanks.Application\\Tanks.Application.csproj": {
-              "projectPath": "C:\\Users\\MISHO0202\\source\\repos\\Tanks\\Tanks.Application\\Tanks.Application.csproj"
+            "E:\\Documents\\GitHub\\Kursova_rabota\\Tanks\\Tanks.Application\\Tanks.Application.csproj": {
+              "projectPath": "E:\\Documents\\GitHub\\Kursova_rabota\\Tanks\\Tanks.Application\\Tanks.Application.csproj"
             }
           }
         }
